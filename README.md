@@ -13,7 +13,7 @@ The decompiled function:<br>
 ![image](https://github.com/discriminating/uwp-printsploit/assets/99683656/2d5b2676-28b3-4326-873d-c072612803b7)
 
 
-| a1 (int)     | a2 (const char*) | a3 (const char*) |
+| a1 (int)     | a2 (const char*) | ... |
 | ----------- | ----------- | ----------- |
 | 0 | normal text (white)   | extra       |
 | 1 | info (blue)           | extra       |
@@ -22,7 +22,7 @@ The decompiled function:<br>
 
 example:
 
-| a1 (int)     | a2 (const char*) | a3 (const char*) |
+| a1 (int)     | a2 (const char*) | ... |
 | ----------- | ----------- | ----------- |
 | 1 | Address is: 0x%p   | (void*)r_print |
 
